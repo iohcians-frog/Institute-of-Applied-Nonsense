@@ -1,3 +1,17 @@
+---
+
+## 🧭 IAN Resources and Navigation
+
+| Section | Description | Link |
+| :--- | :--- | :--- |
+| **The Repository** | Access the full Homeostatic Repository database (raw data). | [Repository Data](_data/repository_data.csv) |
+| **Case Files** | Annotated list of all studies and verdicts. | [Case File List](repository_list.md) |
+| **Volunteer** | View roles and apply to join the Epistemic Review Board. | [Join the Review Board](volunteer.md) |
+| **About the IAN** | Our anonymity stance, FAQ, and the Reductionphobia Collective. | [About the Institute](about.md) |
+| **First Case File** | Detailed analysis of the Dopamine Paradox. | [Case #001: Dopamine Paradox](_cases/case_dopamine.md) |
+
+---
+
 # The Institute for Applied Nonsense (IAN)
 
 *Where rigor meets ridiculousness — and both make sense.*
